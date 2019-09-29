@@ -1,0 +1,8 @@
+{
+  "name": "dt-aglio",
+  "version": "0.0.1",
+  "description": "Wrapper for aglio",
+  "main": "index.js",
+  "author": "Nestarneal",
+  "license": "MIT"
+}
