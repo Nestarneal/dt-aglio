@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const aglio = require('aglio')
 
 if (process.argv.length !== 4) {
