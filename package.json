@@ -1,5 +1,6 @@
 {
   "name": "dt-aglio",
+  "bin": "./index.js",
   "version": "0.0.1",
   "description": "Wrapper for aglio",
   "main": "index.js",
