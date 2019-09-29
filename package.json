@@ -4,5 +4,8 @@
   "description": "Wrapper for aglio",
   "main": "index.js",
   "author": "Nestarneal",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aglio": "^2.3.0"
+  }
 }
