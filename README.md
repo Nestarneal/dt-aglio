@@ -1,6 +1,6 @@
 # dt-aglio
 
-## Description
+## Introduction
 
 A wrapper for [aglio](https://github.com/danielgtaylor/aglio).
 
