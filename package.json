@@ -2,6 +2,10 @@
   "name": "dt-aglio",
   "bin": "./index.js",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nestarneal/dt-aglio"
+  },
   "description": "Wrapper for aglio",
   "main": "index.js",
   "author": "Nestarneal",
